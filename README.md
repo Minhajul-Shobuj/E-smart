@@ -1,10 +1,8 @@
 # E-Smarts Website
 
 Website Live Site ➡ [Link](https://e-smarts.web.app/)
-# E-Smarts Website
 
 Server Side Code ➡ [Link](https://e-smarts.web.app/)
-# E-Smarts Website
 
 Client Side Code ➡ [Link](https://e-smarts.web.app/)
 
