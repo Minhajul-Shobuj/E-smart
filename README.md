@@ -2,9 +2,9 @@
 
 Website Live Site ➡ [Link](https://e-smarts.web.app/)
 
-Server Side Code ➡ [Link](https://e-smarts.web.app/)
+Server Side Code ➡ [Link](https://github.com/Minhajul-Shobuj/e-smart-server)
 
-Client Side Code ➡ [Link](https://e-smarts.web.app/)
+Client Side Code ➡ [Link](https://github.com/Minhajul-Shobuj/E-smart)
 
 ### Short Description
 E-smerts is a online learning platform for learners. Here user will get course for Graphics Design, Programming, Web developing & web Development etc. 
